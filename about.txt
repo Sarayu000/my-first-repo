@@ -1,0 +1,5 @@
+Name: Sarayu Potnuru
+Course: BSC-Data Science
+
+
+I have learned how to create repositories in GitHub.
